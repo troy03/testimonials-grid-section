@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/troy03/testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://troy03.github.io/testimonials-grid-section/)
+- Solution URL:(https://github.com/troy03/testimonials-grid-section)
+- Live Site URL:(https://troy03.github.io/testimonials-grid-section/)
 
 ### Built with
 
